@@ -216,3 +216,66 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SIH Drone 3D Reconstruction - generated data
+backend/uploads/
+backend/frames/
+backend/processed_frames/
+backend/segmentation/
+backend/reconstruction/
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Reconstruction outputs
+*.db
+*.ply
+*.las
+*.laz
+*.obj
+*.gltf
+*.glb
+
+# Local IDE/settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SIH Drone 3D Reconstruction - generated data
+backend/uploads/
+backend/frames/
+backend/processed_frames/
+backend/segmentation/
+backend/reconstruction/
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Reconstruction outputs
+*.db
+*.ply
+*.las
+*.laz
+*.obj
+*.gltf
+*.glb
+
+# Local IDE/settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local external tools
+tools/
